@@ -36,6 +36,8 @@ A two-site Cisco Packet Tracer network connecting Toronto and London with VLANs,
 
 [View project](https://github.com/arpan3a/ccna-multisite-enterprise-network)
 
+---
+
 ### 3. Centralized PAT and OSPF Default Routing Lab
 
 A Cisco Packet Tracer multi-site network demonstrating OSPF default-route
