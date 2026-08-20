@@ -36,6 +36,17 @@ A two-site Cisco Packet Tracer network connecting Toronto and London with VLANs,
 
 [View project](https://github.com/arpan3a/ccna-multisite-enterprise-network)
 
+### 3. Centralized PAT and OSPF Default Routing Lab
+
+A Cisco Packet Tracer multi-site network demonstrating OSPF default-route
+propagation, centralized PAT at HQ, VLANs, router-on-a-stick, and
+return-path troubleshooting.
+
+**Topics:** `OSPF` `NAT/PAT` `Default Routing` `VLANs` `Troubleshooting`
+
+[View project](https://github.com/arpan3a/ccna-ospf-centralized-pat-lab)
+
+
 ## Current learning goals
 
 - Continue building CCNA-level labs
