@@ -17,7 +17,18 @@ I'm currently studying for the CCNA and building hands-on Cisco Packet Tracer pr
 
 ## Featured projects
 
-### 1. Multi-Area OSPF and Centralized DHCP Lab
+### 1. CCNA-4site-healthcare-wan
+
+Multi-area OSPF enterprise WAN connecting 4 hospital sites (Vancouver, Calgary, Brampton, Toronto) with HSRP redundancy, DHCP, SSH security, and cross-site VoIP - built in Cisco Packet Tracer for CCNA.
+
+**Topics:**
+"ccna" "cisco" "packet-tracer" "ospf" "hsrp" "dhcp" "voip" "networking" "network-engineering" "troubleshooting"
+
+[View project](https://github.com/arpan3a/ccna-4site-healthcare-wan)
+
+---
+
+### 2. Multi-Area OSPF and Centralized DHCP Lab
 
 A Cisco Packet Tracer lab demonstrating centralized DHCP across routed networks using DHCP relay and multi-area OSPF.
 
@@ -28,7 +39,7 @@ A Cisco Packet Tracer lab demonstrating centralized DHCP across routed networks 
 
 ---
 
-### 2. Multi-Site Enterprise Network Lab
+### 3. Multi-Site Enterprise Network Lab
 
 A two-site Cisco Packet Tracer network connecting Toronto and London with VLANs, router-on-a-stick, DHCP, single-area OSPF, and PAT through a simulated ISP.
 
@@ -39,7 +50,7 @@ A two-site Cisco Packet Tracer network connecting Toronto and London with VLANs,
 
 ---
 
-### 3. Centralized PAT and OSPF Default Routing Lab
+### 4. Centralized PAT and OSPF Default Routing Lab
 
 A Cisco Packet Tracer multi-site network demonstrating OSPF default-route
 propagation, centralized PAT at HQ, VLANs, router-on-a-stick, and
