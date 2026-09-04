@@ -71,4 +71,4 @@ return-path troubleshooting.
 
 ## Connect with me
 
-- [LinkedIn](www.linkedin.com/in/arpankumar-amipuriya)
+- [LinkedIn](https://www.linkedin.com/in/arpankumar-amipuriya)
