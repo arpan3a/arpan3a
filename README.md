@@ -4,15 +4,16 @@ I'm currently studying for the CCNA and building hands-on Cisco Packet Tracer pr
 
 ## Networking skills
 
-- IPv4 addressing and subnetting
-- VLANs and 802.1Q trunking
-- Router-on-a-stick
-- DHCP and DHCP relay
-- Single-area and multi-area OSPF
-- RIP, RIPv2, EIGRP
-- Static and default routing
+- IPv4 addressing and subnetting (VLSM, /30 WAN links)
+- VLANs, 802.1Q trunking, inter-VLAN routing (SVIs)
+- STP, PortFast, BPDU Guard, EtherChannel (LACP)
+- HSRP first-hop redundancy (priority + preempt)
+- Single-area and multi-area OSPF, ABRs, passive interfaces
+- DHCP and DHCP relay (ip helper-address, option 150)
 - NAT and PAT
-- Cisco IOS troubleshooting
+- Device hardening: SSH, enable secret, console/VTY security
+- Cisco VoIP basics: CME, dial-peers, cross-site calling
+- Structured troubleshooting (L1/L2/L3)
 
 ## Featured projects
 
