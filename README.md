@@ -1,6 +1,6 @@
 # Hi, I'm Arpan 👋
 
-I'm currently studying for the CCNA and building hands-on Cisco Packet Tracer projects to strengthen my networking and troubleshooting skills.
+I'm a technical support professional with hands-on experience across enterprise infrastructure monitoring, network troubleshooting, and customer support. I build Cisco Packet Tracer labs to go deeper than my day-to-day work requires, and I'm currently studying for the CCNA and AWS Solutions Architect certifications.
 
 ## Networking skills
 
