@@ -1,6 +1,11 @@
 # Hi, I'm Arpan 👋
 
-I'm a technical support professional with hands-on experience across enterprise infrastructure monitoring, network troubleshooting, and customer support. I build Cisco Packet Tracer labs to go deeper than my day-to-day work requires, and I'm currently studying for the CCNA and AWS Solutions Architect certifications.
+Technical support professional with hands-on experience in enterprise infrastructure monitoring, network troubleshooting and customer support. Cisco CCNA and CompTIA A+ certified.
+
+I build Cisco Packet Tracer labs to go deeper than my day-to-day work requires. My repos cover VLANs and inter-VLAN routing, multi-site OSPF, NAT/PAT, DHCP, ACLs and SSH hardening, each with configs, topology and verification output.
+
+Currently learning: Python and Netmiko for network automation.
+Looking for: NOC, network support or junior network engineer roles in Canada.
 
 ## Networking skills
 
