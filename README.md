@@ -34,7 +34,7 @@ Deployed and verified a Windows Server 2022 Primary Domain Controller (corp.loca
 
 ***
 
-### 2. NLH Healthcare — 4-Site Enterprise WAN & DMZ Security Architecture
+### 2. NLH Healthcare - 4-Site Enterprise WAN & DMZ Security Architecture
 Multi-area OSPF enterprise WAN connecting 4 hospital sites (Toronto HQ, Vancouver, Calgary, Brampton) across 31 devices with HSRP redundancy, VLAN segmentation, LACP EtherChannel, centralized DHCP relay, a segmented DMZ, SSH hardening, cross-site VoIP, and 7 documented troubleshooting scenarios.
 
 **Topics:** "ccna" "cisco" "packet-tracer" "ospf" "hsrp" "dhcp" "dmz" "voip" "network-engineering" "troubleshooting"
