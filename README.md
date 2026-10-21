@@ -23,7 +23,7 @@ sanitized configurations, troubleshooting notes, and verification evidence.
 
 ### Networking & Security
 - **Routing & Switching:** IPv4 addressing & VLSM (/30 WAN links, /24 LANs), VLANs, 802.1Q trunking, inter-VLAN routing (SVIs & Router-on-a-Stick), STP (PortFast, BPDU Guard), EtherChannel (LACP), HSRP first-hop redundancy (priority + preempt), Single-Area & Multi-Area OSPF (ABRs, "default-information originate", passive interfaces)
-- **Network Security & Monitoring:** ACLs, NAT/PAT, DMZ segmentation, SSH v2 device hardening, Fortinet ("FortiAnalyzer" log analysis, NSE 1–3), Cisco ISE, Cisco DNA, Aruba Central & ClearPass (802.1X/RADIUS), PRTG, LibreNMS
+- **Network Security & Monitoring:** ACLs, NAT/PAT, DMZ segmentation, SSH v2 device hardening, Fortinet ("FortiAnalyzer" log analysis, NSE 1–3), Cisco ISE, Cisco DNA, Aruba Central & ClearPass monitoring, PRTG, LibreNMS
 - **Voice & Wireless:** Cisco VoIP (CME, dial-peers, cross-site calling), Cisco WLC 3504, lightweight APs, FlexConnect local switching, WLAN-to-VLAN mapping, WPA2-PSK/AES, 2.4/5 GHz RF, and DOCSIS 3.0/3.1 diagnostics
 
 ### Systems, Active Directory & Virtualization
