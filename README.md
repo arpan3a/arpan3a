@@ -8,7 +8,7 @@ I build hands-on Cisco Packet Tracer and VMware labs covering enterprise routing
 
 - [Cisco CCNA — Verified Credential](https://www.credly.com/badges/5b115052-61c1-4929-9235-7adeb7bc199d/public_url)
 - Fortinet NSE 1–3
-- APNIC Routing Fundamentals — IS-IS, OSPF, and BGP
+- APNIC Routing Fundamentals - IS-IS, OSPF, and BGP
 
 ## Current Focus
 
@@ -36,9 +36,9 @@ I build hands-on Cisco Packet Tracer and VMware labs covering enterprise routing
 
 ## Featured Projects
 
-### 1. NLH Healthcare — 4-Site Enterprise WAN & DMZ Security Architecture
+### 1. NLH Healthcare: 4-Site Enterprise WAN & DMZ Security Architecture
 
-Designed a multi-area OSPF enterprise WAN connecting four hospital sites—Toronto HQ, Vancouver, Calgary, and Brampton—across 31 devices.
+Designed a multi-area OSPF enterprise WAN connecting four hospital sites, Toronto HQ, Vancouver, Calgary, and Brampton—across 31 devices.
 
 Implemented HSRP redundancy, VLAN segmentation, LACP EtherChannel, centralized DHCP relay, DMZ segmentation, SSH hardening, cross-site VoIP, and seven documented troubleshooting scenarios.
 
@@ -92,5 +92,5 @@ My repositories also include focused labs covering centralized PAT, OSPF default
 
 ## Connect with Me
 
-- [LinkedIn — Arpankumar Amipuriya](https://www.linkedin.com/in/arpankumar-amipuriya)
-- [GitHub — arpan3a](https://github.com/arpan3a)
+- [LinkedIn - Arpankumar Amipuriya](https://www.linkedin.com/in/arpankumar-amipuriya)
+- [GitHub - arpan3a](https://github.com/arpan3a)
