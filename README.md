@@ -13,7 +13,7 @@ I build hands-on Cisco Packet Tracer and VMware labs covering enterprise routing
 ## Current Focus
 
 - **Currently learning:** Advanced Cisco ASA policy, Windows/Linux security telemetry, and Python/Netmiko automation
-- **Seeking:** Professional Services Engineer, NOC Analyst, Network Administrator, or Junior Network Engineer opportunities in Ontario, Canada
+- **Seeking:** Network technician, NOC Analyst, Network Administrator, or Junior Network Engineer opportunities in Ontario, Canada
 
 ---
 
